@@ -1,0 +1,308 @@
+.navbar {
+  display: flex;
+  height: 8vh;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  background-color: #E7717D;
+  /* margin-top: 20px; */
+
+  color: whitesmoke
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.navbar a:visited {
+  color: whitesmoke;
+}
+
+.logo {
+  background-color: whitesmoke;
+  display: flex;
+  gap: 400px;
+  align-items: center;
+  height: 25vh;
+  width: 100%;
+
+}
+
+.logo img {
+  margin-left: 30px;
+  width: 200px;
+  height: 150px;
+}
+
+.carsoul {
+  height: 600px;
+  border: 3px black solid;
+
+}
+
+.carsoul img {
+  height: 600px;
+  width: 100%;
+}
+
+/* Home page  */
+.prod1 {
+  width: 280px;
+  height: 230px;
+  border: 1px #E7717D solid;
+  background-color: white;
+  /* background-color: #E7717D; */
+  text-align: center;
+  font: 20px bold;
+  color: #E7717D;
+  box-shadow: 4px 4px 5px #E7717D;
+  margin: auto;
+  /* margin-left: 50px;
+  margin-top: 50px; */
+  
+  
+}
+.applynow1 {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-template-rows: repeat(3,1fr);
+  row-gap: 30px;
+  column-gap: 30px;
+  margin-top: 20px;
+}
+.applynow {
+  margin: auto;
+  margin-top: 20px;
+  padding-bottom: 30px;
+
+   background-color: whitesmoke;  
+  width: 90%;
+  
+  text-align: center;
+ 
+
+ 
+  
+}
+#heading{
+  padding: 10px;
+  align-items: center;
+}
+.applynow a,.applynow a:visited{
+ text-decoration: none;
+ color: black;
+}
+.prod1img{
+ /* border: 1px red solid; */
+ height: 160px;
+ margin: 20px;
+ margin-bottom: 10px;
+}
+.prod1 p {
+  
+  font-weight: 300;
+ 
+}
+.prod1 img{
+  height: 100%;
+  width: 100%;
+}
+.contactus {
+  border: 1px black solid;
+  
+  width:80%;
+  align-items: center;
+  margin: auto;
+  margin-top: 30px;
+  background-color: whitesmoke;
+
+}
+.contacttext {
+align-items: center;
+text-align: center;
+}
+/* .contactus form {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  
+  font: 300;
+  width:80%;
+  margin:auto;
+  line-height: 30px;
+
+
+}  */
+
+.contactus form {
+ padding: 20px;
+}
+ 
+/* .contactus button{
+  height: 30px;
+   border-radius: 20%;
+}  */
+.aboutus {
+  width: 90%;
+  margin: auto;
+  border: 1px solid #E7717D;
+   background-color: whitesmoke;
+  margin-top: 20px;
+  /* display: flex; */
+}
+.aboutus img {
+  float: left;
+  width: 250px;
+  height: 250px;
+  margin: 20px 20px 10px 20px;
+  
+ 
+}
+.abtus {
+ padding-left: 20px;
+
+}
+ .heading{
+  text-align: center;  
+  
+}
+.heading span {
+  font-size: 40px;
+}
+.profpic {
+  width: 600px;
+  height: 600px;
+}
+.footersec1{
+  margin-top: 20px;
+  display:grid;
+  background-color: #E7717D;
+  grid-template-columns: repeat(4,1fr);
+  row-gap: 10px;
+  
+  padding: 20px;
+  padding-left: 10%;
+  /* padding-bottom: 20px; */
+  
+}
+.footersecitems {
+  text-decoration: none;
+  color: black;
+}
+.socmediaicons{
+  margin-top:5px;
+  height: 5vh;
+  width: 100%;
+  background-color: #E7717D;
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  text-align: center;
+  color: black;
+  
+}
+.socmediaicons p{
+  padding-left: 20px;
+  padding-top: 15px;
+  text-align: center;
+  align-items: center;
+}
+.icons {
+  display: flex;
+  gap: 20px;
+}
+.cpyright{
+  margin-left: 50%;
+}
+
+/* .footersecitemss{
+ display: flex;
+ flex-direction: column;
+ border: black 1px solid;
+ padding: 0px;
+}
+.footersecitemss a{
+  border: blueviolet solid 1px;
+} */
+
+
+/* #footsec{
+  display:grid;
+  background-color: #E7717D;
+  grid-template-columns: repeat(4,1fr);
+  grid-template-rows: repeat(4,1fr);
+} */
+.login {
+  font-size:18px;
+  display: flex;
+  flex-direction:column;
+  gap:10px;
+  width:80%;
+  margin:auto;
+  margin-top:20px;
+  border:1px solid black;
+  /* align-items:center; */
+  /* text-align:center; */
+  height:300px;
+}
+.gapping {
+  height:200px;
+  width: 100%;
+}
+.login div
+
+{
+  margin-left:30px;
+  display:flex;
+  gap:10px;
+  padding-top:30px;
+}
+.login input {
+  width : 80%;
+}
+.abt {
+  padding: 15px;
+}
+/* .sub tr{
+  border: 1px solid black;
+  padding: 5px;
+} 
+.sub td{
+  border: 1px solid black;
+  padding: 5px;
+}
+.sub th{
+  border: 1px solid black;
+  padding: 5px;
+} */
+.login button {
+  border-radius: 10px;
+}
+.details {
+margin: 20px;
+}
+.sub {
+  margin-top: 10px;
+  width: 70%;
+  height: 400px;
+}
+.maintab {
+  width: 30%;
+  
+}
+table,th,td {
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.banking{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  width: 80%;
+  margin: auto;
+  margin-top: 30px;
+  row-gap: 50px;
+}
+.banking li {
+  
+}
