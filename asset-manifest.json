@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Soundar12/Reactproj/static/css/main.088c1176.css",
-    "main.js": "/Soundar12/Reactproj/static/js/main.b57d4920.js",
-    "static/media/img1.jpg": "/Soundar12/Reactproj/static/media/img1.818957923d9edaa2ac18.jpg",
-    "static/media/1.jpg": "/Soundar12/Reactproj/static/media/1.1a2ecf5a30756daac6b6.jpg",
-    "static/media/prod8.jpg": "/Soundar12/Reactproj/static/media/prod8.f56189f5b862f335cf8d.jpg",
-    "static/media/prod9.jpg": "/Soundar12/Reactproj/static/media/prod9.ffd113c8120a55f0c84f.jpg",
-    "static/media/prod3.jpg": "/Soundar12/Reactproj/static/media/prod3.ea6384a58cd93c145636.jpg",
-    "static/media/prod4.jpg": "/Soundar12/Reactproj/static/media/prod4.544f0659133cd667df79.jpg",
-    "static/media/prod6.jpg": "/Soundar12/Reactproj/static/media/prod6.92e4406b8ddb60bbf6c1.jpg",
-    "static/media/prod1.jpg": "/Soundar12/Reactproj/static/media/prod1.d422ddb68833b9c6015e.jpg",
-    "static/media/prod2.jpg": "/Soundar12/Reactproj/static/media/prod2.65e2b67d1bfef642357e.jpg",
-    "static/media/prod7.jpg": "/Soundar12/Reactproj/static/media/prod7.129ac4d45e85af9deab1.jpg",
-    "static/media/prod5.jpg": "/Soundar12/Reactproj/static/media/prod5.05b470b72ac86e3861db.jpg",
-    "index.html": "/Soundar12/Reactproj/index.html",
-    "main.088c1176.css.map": "/Soundar12/Reactproj/static/css/main.088c1176.css.map",
-    "main.b57d4920.js.map": "/Soundar12/Reactproj/static/js/main.b57d4920.js.map"
+    "main.css": "/Reactproj/static/css/main.088c1176.css",
+    "main.js": "/Reactproj/static/js/main.98b27e27.js",
+    "static/media/img1.jpg": "/Reactproj/static/media/img1.818957923d9edaa2ac18.jpg",
+    "static/media/1.jpg": "/Reactproj/static/media/1.1a2ecf5a30756daac6b6.jpg",
+    "static/media/prod8.jpg": "/Reactproj/static/media/prod8.f56189f5b862f335cf8d.jpg",
+    "static/media/prod9.jpg": "/Reactproj/static/media/prod9.ffd113c8120a55f0c84f.jpg",
+    "static/media/prod3.jpg": "/Reactproj/static/media/prod3.ea6384a58cd93c145636.jpg",
+    "static/media/prod4.jpg": "/Reactproj/static/media/prod4.544f0659133cd667df79.jpg",
+    "static/media/prod6.jpg": "/Reactproj/static/media/prod6.92e4406b8ddb60bbf6c1.jpg",
+    "static/media/prod1.jpg": "/Reactproj/static/media/prod1.d422ddb68833b9c6015e.jpg",
+    "static/media/prod2.jpg": "/Reactproj/static/media/prod2.65e2b67d1bfef642357e.jpg",
+    "static/media/prod7.jpg": "/Reactproj/static/media/prod7.129ac4d45e85af9deab1.jpg",
+    "static/media/prod5.jpg": "/Reactproj/static/media/prod5.05b470b72ac86e3861db.jpg",
+    "index.html": "/Reactproj/index.html",
+    "main.088c1176.css.map": "/Reactproj/static/css/main.088c1176.css.map",
+    "main.98b27e27.js.map": "/Reactproj/static/js/main.98b27e27.js.map"
   },
   "entrypoints": [
     "static/css/main.088c1176.css",
-    "static/js/main.b57d4920.js"
+    "static/js/main.98b27e27.js"
   ]
 }
